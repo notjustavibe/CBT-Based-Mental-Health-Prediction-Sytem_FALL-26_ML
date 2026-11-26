@@ -51,8 +51,8 @@ Running the notebook also generates `model.pkl` (a copy of the Random Forest pac
 ### Setup
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/notjustavibe/CBT-Based-Mental-Health-Prediction-Sytem_FALL-26_ML.git
+cd CBT-Based-Mental-Health-Prediction-Sytem_FALL-26_ML
 jupyter notebook MindCheck_Interactive_Pipeline.ipynb
 ```
 
@@ -106,7 +106,7 @@ Python, Jupyter, NumPy, pandas, scikit-learn, joblib, matplotlib, seaborn, ipywi
 
 ## Author
 
-Muhammad Qasim Ashfaq, BS Artificial Intelligence, Superior University
+Qasim, BS Artificial Intelligence, Superior University
 
 ## License
 
