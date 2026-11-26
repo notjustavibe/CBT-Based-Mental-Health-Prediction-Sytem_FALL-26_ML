@@ -106,8 +106,8 @@ Python, Jupyter, NumPy, pandas, scikit-learn, joblib, matplotlib, seaborn, ipywi
 
 ## Author
 
-Muhammad Qasim Ashfaq, BS Artificial Intelligence, Superior University
+Muhammad Qasim Ashfaq , BS Artificial Intelligence, Superior University
 
 ## License
 
-Add a license of your choice (for example MIT) and confirm that the dataset licences permit redistribution before uploading the CSV files.
+This project is released under the [MIT License](LICENSE). The datasets remain the property of their original authors and are redistributed under their own terms.
