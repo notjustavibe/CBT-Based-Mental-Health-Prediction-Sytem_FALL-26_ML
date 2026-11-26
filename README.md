@@ -101,12 +101,12 @@ Python, Jupyter, NumPy, pandas, scikit-learn, joblib, matplotlib, seaborn, ipywi
 
 ## Data Sources
 
-- Open Sourcing Mental Illness (OSMI), Mental Health in Tech Survey
-- Global Mental Health Dataset (public survey data on Kaggle; confirm the exact source and licence before publishing)
+- Open Sourcing Mental Illness (OSMI), Mental Health in Tech Survey (`survey.csv`), via the Kaggle notebook by ekim01: https://www.kaggle.com/code/ekim01/predictors-of-mental-health-illness?select=survey.csv
+- Global Mental Health Dataset (`Mental Health Dataset.csv`), via the Kaggle notebook by mahmoudweso: https://www.kaggle.com/code/mahmoudweso/mental-health-dataset?select=Mental+Health+Dataset.csv (rename the file to `Mental_Health_Dataset.csv` to match the notebook; confirm the licence before redistributing)
 
 ## Author
 
-Qasim, BS Artificial Intelligence, Superior University
+Muhammad Qasim Ashfaq, BS Artificial Intelligence, Superior University
 
 ## License
 
